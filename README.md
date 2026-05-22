@@ -9,13 +9,13 @@
 
 - 🔭 Studying Computer Science [C/C++ Library Management System]("C:\Users\Home\Downloads\main.c")
 
-- 🕐Working on.. **HTML/CSS Projects**
+- 🕐Working on.. **Full-stack Projects**
 
-- 🌱 I’m currently learning **UI Design software Adobe Illustrator course https://www.udemy.com/course/learn-illustrator/learn/lecture/**
+- 🌱 I’m currently learning **Java DSA**
 
 - 📫 How to reach me **ananyaasharma341@gmail.com**
 
-- ❔Ask Me About [C/C++,PostgreSQL, Figma, Adobe Illustrator, Adobe Express..](C/C++,PostgreSQL, Figma, Adobe Illustrator, Adobe Express..)
+- ❔Ask Me About [PostgreSQL,Javascript HTML,CSS,C,Java, MERN](C,Java,PostgreSQL, Figma, Javascript , HTML,CSS, Tailwind ,Node.js, Express.js)
 
 - ⚡Fun Fact **Night owl🦉 peak productivity...**
 
