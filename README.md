@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyasharma402&label=Profile%20views&color=0e75b6&style=flat" alt="ananyasharma402" /> </p>
 
-- 🔭 Studying Computer Science [C/C++ Library Management System]("C:\Users\Home\Downloads\main.c")
+- 🔭 Studying Computer Science [Java Library Management System]("C:\Users\Home\Downloads\main.c")
 
 - 🕐Working on.. **Full-stack Projects**
 
