@@ -1,36 +1,131 @@
-![logo](https://github.com/ananyasharma402/ananyasharma402/blob/main/git%20banner.png)
-<h1 align="center">Hi 👋, I'm Ananya Sharma</h1>
-<h3 align="center">A passionate Software Engineer student from India</h3>
-<img align ="right" alt="coding" width ="400" src="https://github.com/user-attachments/assets/a458ab27-3dfd-4a99-baf3-4a31108f8ea0" />
- 
+<div align="center">
 
+![Banner](https://github.com/ananyasharma402/ananyasharma402/blob/main/git%20banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyasharma402&label=Profile%20views&color=0e75b6&style=flat" alt="ananyasharma402" /> </p>
+</div>
 
-- 🔭 Studying Computer Science [Java Library Management System]("C:\Users\Home\Downloads\main.c")
+<div align="center">
 
-- 🕐Working on.. **Full-stack Projects**
+```
+┌──────────────────────────────────────────────┐
+│  guest@ananya-dev:~$ whoami                   │
+│  > Ananya Sharma — Software Engineering       │
+│    student, full-stack builder, night owl 🦉  │
+└──────────────────────────────────────────────┘
+```
 
-- 🌱 I’m currently learning **Java DSA**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=B347EA&center=true&vCenter=true&width=600&lines=%3E+booting+dev_environment...;%3E+loading+java_%26_dsa_modules;%3E+compiling+full_stack_projects;%3E+status%3A+online+%F0%9F%9F%A2" alt="Typing SVG" />
 
-- 📫 How to reach me **ananyaasharma341@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=ananyasharma402&label=Profile%20Views&color=b347ea&style=for-the-badge" alt="profile views" />
 
-- ❔Ask Me About [PostgreSQL,Javascript HTML,CSS,C,Java, MERN](C,Java,PostgreSQL, Figma, Javascript , HTML,CSS, Tailwind ,Node.js, Express.js)
+</div>
 
-- ⚡Fun Fact **Night owl🦉 peak productivity...**
+<img align="right" alt="coding" width="360" src="https://github.com/user-attachments/assets/a458ab27-3dfd-4a99-baf3-4a31108f8ea0" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ananya-sharma-a863b631a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-sharma-a863b631a/" height="30" width="40" /></a>
-<a href="https://instagram.com/ananyaasharma_s8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananyaasharma_s8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ananya_2222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ananya_2222/" height="30" width="40" /></a>
+<br>
+
+## ⚙️ `system.info`
+
+```yaml
+role:         Computer Science Student
+status:       Building Full-Stack Projects
+learning:     Java + Data Structures & Algorithms
+active_build: Java Library Management System
+uptime_peak:  22:00 — 03:00  # night owl mode 🦉
+contact:      ananyaasharma341@gmail.com
+```
+
+<br clear="right"/>
+
+---
+
+## 🧬 Focus Modules
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🟣 `module: java_dsa`
+```
+> loading core CS fundamentals...
+> arrays      [OK]
+> recursion   [OK]
+> OOP design  [OK]
+> building: Java Library Mgmt System
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 🟢 `module: full_stack`
+```
+> stack: Mongo · Express · Node
+> relational: PostgreSQL · MySQL
+> styling: Tailwind CSS
+> prototyping: Figma
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📡 `uplink --connect`
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ananya-sharma-a863b631a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/ananyaasharma_s8" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/u/ananya_2222/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:ananyaasharma341@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyasharma402&show_icons=true&locale=en&layout=compact" alt="ananyasharma402" /></p>
+## 🧠 `tech_stack.json`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyasharma402&show_icons=true&locale=en" alt="ananyasharma402" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyasharma402&" alt="ananyasharma402" /></p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+</p>
+
+---
+
+## 🌌 `contribution_graph.snake`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ananyasharma402/ananyasharma402/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph" />
+</p>
+
+> ⚙️ Powered by the [snk](https://github.com/Platane/snk) GitHub Action — generates automatically from live commit activity once set up on your repo.
+
+---
+
+<div align="center">
+
+```
+> process complete. thanks for stopping by.
+> connection: night_owl_mode — always compiling something 🌙
+```
+
+</div>
